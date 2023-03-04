@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "peerjs": "^0.3.24",
+    "peerjs": "^1.4.7",
     "simple-peer": "^9.3.0",
     "vue": "^2.5.16",
     "vue-cleave-component": "^2.1.2",
